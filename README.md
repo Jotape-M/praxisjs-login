@@ -2,7 +2,7 @@
 
 Interface de autenticação mockada construída com **PraxisJS**, seguindo a identidade visual do framework.
 
-![PraxisJS Login Preview](preview.png)
+![PraxisJS Login Preview](/public/image.png)
 
 ---
 
